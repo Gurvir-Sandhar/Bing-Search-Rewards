@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "BingSearchRewards",
+    "version": "1.0",
+
+    "description": "Creates Bing searches so you can claim your daily Microsoft rewards!"
+
+    "icons": {
+        "48": "icons/icon.png"
+    },
+
+
+}
+
