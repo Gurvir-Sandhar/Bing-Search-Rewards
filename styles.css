@@ -1,0 +1,12 @@
+body {
+    padding: 30px;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    background-color: rgba(0,0,0, 0.8) !important;
+    color: white !important;
+}
+
+h2 {
+    white-space: nowrap;
+}

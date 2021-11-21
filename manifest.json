@@ -3,11 +3,21 @@
     "name": "BingSearchRewards",
     "version": "1.0",
 
-    "description": "Creates Bing searches so you can claim your daily Microsoft rewards!"
+    "description": "Creates Bing searches so you can claim your daily Microsoft rewards!",
 
     "icons": {
         "48": "icons/icon.png"
     },
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_icon": "icons/icon.png",
+        "default_title": "Bing Search Rewards",
+        "default_popup": "index.html"
+    }
 
 
 }
